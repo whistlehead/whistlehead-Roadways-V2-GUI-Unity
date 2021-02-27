@@ -1,0 +1,7 @@
+C:\Users\chris\unity\Embedded window project\Container\bin\Debug\Container.exe
+C:\Users\chris\unity\Embedded window project\Container\bin\Debug\Container.pdb
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Debug\Container.Form1.resources
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Debug\Container.Properties.Resources.resources
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Debug\Container.csproj.GenerateResource.cache
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Debug\Container.exe
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Debug\Container.pdb

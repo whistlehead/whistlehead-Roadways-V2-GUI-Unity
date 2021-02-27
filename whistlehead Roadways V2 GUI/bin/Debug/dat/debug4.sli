@@ -1,0 +1,58 @@
+Roadways V2
+Created by whistlehead / Chris Nightingale, 2020
+##### TEXTURES #####
+
+[texture]
+asphalt mid\worn.bmp
+
+[texture]
+asphalt mid\main.bmp
+
+[texture]
+asphalt norm\main.bmp
+
+[texture]
+verge.dds
+[matl_alpha]
+1
+
+[texture]
+markings\white.dds
+[matl_alpha]
+1
+
+[texture]
+markings\hatching.dds
+[matl_alpha]
+1
+
+##### HEIGHTPROFILES #####
+
+[heightprofile]
+-4.55
+4.55
+0.1
+0.1
+
+##### PROFILES #####
+
+----- LINES -----
+
+[profile]
+5
+[profilepnt]
+-0.3
+0.105
+0
+0.167
+[profilepnt]
+0
+0.105
+0.1
+0.167
+[profilepnt]
+0.3
+0.105
+0
+0.167
+

@@ -1,0 +1,8 @@
+C:\Users\chris\unity\Embedded window project\Container\bin\Release\Container.exe
+C:\Users\chris\unity\Embedded window project\Container\bin\Release\Container.pdb
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Release\Container.csprojAssemblyReference.cache
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Release\Container.Form1.resources
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Release\Container.Properties.Resources.resources
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Release\Container.csproj.GenerateResource.cache
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Release\Container.exe
+C:\Users\chris\unity\Embedded window project\Container\obj\x86\Release\Container.pdb

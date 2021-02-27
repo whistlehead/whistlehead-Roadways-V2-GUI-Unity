@@ -1,0 +1,20 @@
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI\whistlehead Roadways V2 GUI\obj\Debug\whistlehead Roadways V2 GUI.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI\whistlehead Roadways V2 GUI\obj\Debug\whistlehead_Roadways_V2_GUI.Form1.resources
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI\whistlehead Roadways V2 GUI\obj\Debug\whistlehead_Roadways_V2_GUI.Properties.Resources.resources
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI\whistlehead Roadways V2 GUI\obj\Debug\whistlehead Roadways V2 GUI.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI\whistlehead Roadways V2 GUI\bin\Debug\whistlehead Roadways V2 GUI.exe.config
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI\whistlehead Roadways V2 GUI\bin\Debug\whistlehead Roadways V2 GUI.exe
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI\whistlehead Roadways V2 GUI\bin\Debug\whistlehead Roadways V2 GUI.pdb
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI\whistlehead Roadways V2 GUI\obj\Debug\whistlehead Roadways V2 GUI.exe
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI\whistlehead Roadways V2 GUI\obj\Debug\whistlehead Roadways V2 GUI.pdb
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\bin\Debug\whistlehead Roadways V2 GUI.exe.config
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\bin\Debug\whistlehead Roadways V2 GUI.exe
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\bin\Debug\whistlehead Roadways V2 GUI.pdb
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\obj\Debug\whistlehead Roadways V2 GUI.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\obj\Debug\whistlehead_Roadways_V2_GUI.Form1.resources
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\obj\Debug\whistlehead_Roadways_V2_GUI.Properties.Resources.resources
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\obj\Debug\whistlehead Roadways V2 GUI.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\obj\Debug\whistlehead Roadways V2 GUI.exe
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\obj\Debug\whistlehead Roadways V2 GUI.pdb
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\obj\Debug\whistlehead_Roadways_V2_GUI.LoadingForm.resources
+C:\Users\chris\source\repos\whistlehead Roadways V2 GUI Unity\whistlehead Roadways V2 GUI\obj\Debug\whistlehead Roadways V2 GUI.csproj.CoreCompileInputs.cache
